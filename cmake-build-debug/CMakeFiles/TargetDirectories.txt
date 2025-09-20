@@ -1,0 +1,3 @@
+C:/IT/VUB/2 BA/Structuur 2/preproject/cmake-build-debug/CMakeFiles/preproject.dir
+C:/IT/VUB/2 BA/Structuur 2/preproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/IT/VUB/2 BA/Structuur 2/preproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
